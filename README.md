@@ -46,6 +46,9 @@
     바꾸고 싶으시면 baram.py의  pyautogui.screenshot 부분을 직접 수정하여야 합니다.
 
 4. 스크린샷
+    ![Screenshot＿20200822－173711＿Telegram](https://user-images.githubusercontent.com/11612996/91041814-a0077380-e64b-11ea-998e-c008e46d2678.jpg)
+    ![Screenshot＿20200822－173731＿Telegram](https://user-images.githubusercontent.com/11612996/91041821-a1d13700-e64b-11ea-8f75-9be2fed43467.jpg)
+    ![Screenshot＿20200822－173743＿Telegram](https://user-images.githubusercontent.com/11612996/91041827-a4cc2780-e64b-11ea-8561-05bd96b23c53.jpg)
 
     
 
